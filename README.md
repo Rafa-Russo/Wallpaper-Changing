@@ -6,6 +6,7 @@
 
 
     `git clone https://github.com/Rafa-Russo/Wallpaper-Changing.git` for HTTPS
+
     `git clone git@github.com:Rafa-Russo/Wallpaper-Changing.git` for SSH
 2. Alter the path to your wallpaper folder in the script
 
